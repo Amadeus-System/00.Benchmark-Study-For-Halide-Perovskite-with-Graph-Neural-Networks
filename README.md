@@ -8,10 +8,9 @@ It can be used as a useful alternative calculation tool in the field of DFT (Den
 The following Figure explains that how the structure of solid state physics can be transformed to a Graph structure.
 <img src = 'https://drive.google.com/uc?export=view&id=1nC5Dv7eqk04dCpp-lsw0Bysh6onyN2Qi' width = 60%>
 
-![Figure 2](https://drive.google.com/uc?export=view&id=1YUcTpyJLAg2U6AD9VGLLf3-PiUyuseQ_)
+<img src = 'https://drive.google.com/uc?export=view&id=1YUcTpyJLAg2U6AD9VGLLf3-PiUyuseQ_' width = 60%>
 
-![Table 1](https://drive.google.com/uc?export=view&id=1Dz36Ob0pqWAE3ollmld8ESZgI570gPHt)
+<img src = 'https://drive.google.com/uc?export=view&id=1Dz36Ob0pqWAE3ollmld8ESZgI570gPHt' width = 60%>
 
-![Figure 3](https://drive.google.com/uc?export=view&id=1CTaG3RBFmDi6kZa7BogS0Ru-zjl1S4Tw)
-
+<img src = 'https://drive.google.com/uc?export=view&id=1CTaG3RBFmDi6kZa7BogS0Ru-zjl1S4Tw' width = 60%>
 
