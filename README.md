@@ -6,7 +6,7 @@ Crystal Graph Convolutional Neural Network (CGCNN) is an example of Graph Convol
 It can be used as a useful alternative calculation tool in the field of DFT (Density Functional Theory).
 
 The following Figure explains that how the structure of solid state physics can be transformed to a Graph structure.
-![Figure 1](https://drive.google.com/uc?export=view&id=1nC5Dv7eqk04dCpp-lsw0Bysh6onyN2Qi)
+<img src = 'https://drive.google.com/uc?export=view&id=1nC5Dv7eqk04dCpp-lsw0Bysh6onyN2Qi' width = 60%>
 
 ![Figure 2](https://drive.google.com/uc?export=view&id=1YUcTpyJLAg2U6AD9VGLLf3-PiUyuseQ_)
 
