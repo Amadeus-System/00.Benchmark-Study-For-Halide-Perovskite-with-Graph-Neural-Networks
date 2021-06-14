@@ -29,6 +29,8 @@ atom. After pooling, a vector representing the entire crystal is
 connected to L2 hidden layers, followed by the output layer to
 provide the prediction.
 
+<br>
+
 <img src = 'https://drive.google.com/uc?export=view&id=1YUcTpyJLAg2U6AD9VGLLf3-PiUyuseQ_' width = 60%>
 
 FIG. 2. Performance of CGCNN on the Materials Project
