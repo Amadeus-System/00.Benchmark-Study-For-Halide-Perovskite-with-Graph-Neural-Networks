@@ -31,10 +31,16 @@ provide the prediction.
 
 <img src = 'https://drive.google.com/uc?export=view&id=1YUcTpyJLAg2U6AD9VGLLf3-PiUyuseQ_' width = 60%>
 
-Figure 2 shows performance of CGCNN on the Materials Project database. (a) Histogram representing the distribution of the number of
-elements in each crystal. (b) Mean absolute error as a function of training crystals for predicting formation energy per atom using
-different convolution functions. The shared area denotes the MAEs of DFT calculations compared with experiments.
-
+FIG. 2. Performance of CGCNN on the Materials Project
+database [11]. (a) Histogram representing the distribution of
+the number of elements in each crystal. (b) Mean absolute error as
+a function of training crystals for predicting formation energy per
+atom using different convolution functions. The shaded area
+denotes the MAEs of DFT calculations compared with experiments [28]. (c) 2D histogram representing the predicted formation per atom against DFT calculated value. (d) Receiver
+operating characteristic curve visualizing the result of metalsemiconductor classification. It plots the proportion of correctly
+identified metals (true positive rate) against the proportion of
+wrongly identified semiconductors (false positive rate) under
+different thresholds.
 
 <img src = 'https://drive.google.com/uc?export=view&id=1Dz36Ob0pqWAE3ollmld8ESZgI570gPHt' width = 60%>
 
