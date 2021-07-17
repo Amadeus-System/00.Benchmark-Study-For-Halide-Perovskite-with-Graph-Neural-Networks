@@ -29,16 +29,5 @@ atom. After pooling, a vector representing the entire crystal is
 connected to L2 hidden layers, followed by the output layer to
 provide the prediction.
 
-<br>
-FIG. 2. Performance of CGCNN on the Materials Project
-database [11]. (a) Histogram representing the distribution of
-the number of elements in each crystal. (b) Mean absolute error as
-a function of training crystals for predicting formation energy per
-atom using different convolution functions. The shaded area
-denotes the MAEs of DFT calculations compared with experiments [28]. (c) 2D histogram representing the predicted formation per atom against DFT calculated value. (d) Receiver
-operating characteristic curve visualizing the result of metalsemiconductor classification. It plots the proportion of correctly
-identified metals (true positive rate) against the proportion of
-wrongly identified semiconductors (false positive rate) under
-different thresholds.
 
 
