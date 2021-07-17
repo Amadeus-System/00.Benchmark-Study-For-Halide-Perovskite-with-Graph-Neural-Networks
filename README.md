@@ -41,7 +41,4 @@ identified metals (true positive rate) against the proportion of
 wrongly identified semiconductors (false positive rate) under
 different thresholds.
 
-<img src = 'https://drive.google.com/uc?export=view&id=1Dz36Ob0pqWAE3ollmld8ESZgI570gPHt' width = 60%>
-
-<img src = 'https://drive.google.com/uc?export=view&id=1CTaG3RBFmDi6kZa7BogS0Ru-zjl1S4Tw' width = 60%>
 
