@@ -16,18 +16,6 @@ show how this information can be utilized to discover empirical rules for materi
 The following Figure explains that how the structure of solid state physics can be transformed to a Graph structure.
 <img src = 'https://drive.google.com/uc?export=view&id=1nC5Dv7eqk04dCpp-lsw0Bysh6onyN2Qi' width = 60%>
 
-FIG. 1. Illustration of the crystal graph convolutional neural
-networks. (a) Construction of the crystal graph. Crystals are
-converted to graphs with nodes representing atoms in the unit cell
-and edges representing atom connections. Nodes and edges are
-characterized by vectors corresponding to the atoms and bonds in
-the crystal, respectively. (b) Structure of the convolutional neural
-network on top of the crystal graph. R convolutional layers and
-L1 hidden layers are built on top of each node, resulting in a new
-graph with each node representing the local environment of each
-atom. After pooling, a vector representing the entire crystal is
-connected to L2 hidden layers, followed by the output layer to
-provide the prediction.
 
 
 
