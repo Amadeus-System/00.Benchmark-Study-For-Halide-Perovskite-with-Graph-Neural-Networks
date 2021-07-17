@@ -30,9 +30,6 @@ connected to L2 hidden layers, followed by the output layer to
 provide the prediction.
 
 <br>
-
-<img src = 'https://drive.google.com/uc?export=view&id=1YUcTpyJLAg2U6AD9VGLLf3-PiUyuseQ_' width = 60%>
-
 FIG. 2. Performance of CGCNN on the Materials Project
 database [11]. (a) Histogram representing the distribution of
 the number of elements in each crystal. (b) Mean absolute error as
