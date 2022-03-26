@@ -1,4 +1,4 @@
-# Python APIs to generate Halide Perovskite Dataset with VASP 5.4.4.std
+# Python APIs to generate Halide Perovskite Datasets
 
 * DFT calculation using **Vasp 5.4.4.std**
 * main materials : **halide perovskites** (6 kinds)
