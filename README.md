@@ -1,4 +1,4 @@
-# 00.Benchmark Study For Halide Perovskite with Graph Neural Networks
+# 00.Application of Crystal Graph Neural Network for Spatial Search of Halide Perovskite Potential Energy
 Repository for my GNN Benchmark Research for Halide Perovskite
 
 
