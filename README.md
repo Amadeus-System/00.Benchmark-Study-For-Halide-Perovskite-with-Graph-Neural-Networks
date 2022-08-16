@@ -1,7 +1,7 @@
 # 00.Application of Crystal Graph Neural Network for Spatial Search of Halide Perovskite Potential Energy
 Repository for my GNN Benchmark Research for Halide Perovskite
 
-
+https://lelouch0316.tistory.com/entry/Graph-Neural-Network-and-Its-Application-for-Computational-Physics?category=1076241
 
 * **Date : 2022-04-05**
 * **Last Modified Date : 2022-08-15**
